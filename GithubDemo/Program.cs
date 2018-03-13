@@ -11,6 +11,7 @@ namespace GithubDemo
         static void Main(string[] args)
         {
             int test = 6;
+            Console.WriteLine("test");
         }
     }
 }
